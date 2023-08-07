@@ -25,7 +25,7 @@ git worktree remove $WTREE_DIR
 rm -rf $WTREE_DIR
 
 # Commit changes in main branch
-git add book
+git add src
 git commit -m "$COMMIT_MSG"
 
 # Push changes to remote origin (GitHub)
