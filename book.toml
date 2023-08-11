@@ -6,3 +6,7 @@ src = "src"
 title = "Our Mission"
 default_theme = "Rust"
 
+[output.html]
+
+#[output.pdf]
+
